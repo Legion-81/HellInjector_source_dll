@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FE0B47A-D7E7-4D02-BE89-4CA54A41C399}|Solution Items{1FE0B47A-D7E7-4D02-BE89-4CA54A41C399}|C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\VisualStudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1FE0B47A-D7E7-4D02-BE89-4CA54A41C399}|Solution Items{1FE0B47A-D7E7-4D02-BE89-4CA54A41C399}|solutionrelative:VisualStudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34AFB07C-68B4-4030-A2FF-C0DC64967172}|Helldll\\Helldll.vcxproj|C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\Helldll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34AFB07C-68B4-4030-A2FF-C0DC64967172}|Helldll\\Helldll.vcxproj|solutionrelative:Helldll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "VisualStudio.gitignore",
+              "DocumentMoniker": "C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\VisualStudio.gitignore",
+              "RelativeDocumentMoniker": "VisualStudio.gitignore",
+              "ToolTip": "C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\VisualStudio.gitignore",
+              "RelativeToolTip": "VisualStudio.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-29T13:32:47.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HellAppInjector.cpp",
               "DocumentMoniker": "C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\HellAppInjector\\HellAppInjector.cpp",
               "RelativeDocumentMoniker": "HellAppInjector\\HellAppInjector.cpp",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "HellAppInjector\\HellAppInjector.cpp",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-29T12:37:15.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T12:37:15.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dllmain.cpp",
               "DocumentMoniker": "C:\\Users\\iamt0\\Desktop\\DLL_Create\\HellJect\\Helldll\\dllmain.cpp",
               "RelativeDocumentMoniker": "Helldll\\dllmain.cpp",

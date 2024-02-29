@@ -7,6 +7,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HellAppInjector", "HellAppI
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Helldll", "Helldll\Helldll.vcxproj", "{34AFB07C-68B4-4030-A2FF-C0DC64967172}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FE0B47A-D7E7-4D02-BE89-4CA54A41C399}"
+	ProjectSection(SolutionItems) = preProject
+		VisualStudio.gitignore = VisualStudio.gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
